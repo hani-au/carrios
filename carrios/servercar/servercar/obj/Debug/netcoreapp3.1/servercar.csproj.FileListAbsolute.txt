@@ -1,0 +1,78 @@
+M:\servercar\servercar\bin\Debug\netcoreapp3.1\servercar.exe
+M:\servercar\servercar\bin\Debug\netcoreapp3.1\servercar.deps.json
+M:\servercar\servercar\bin\Debug\netcoreapp3.1\servercar.runtimeconfig.json
+M:\servercar\servercar\bin\Debug\netcoreapp3.1\servercar.runtimeconfig.dev.json
+M:\servercar\servercar\bin\Debug\netcoreapp3.1\servercar.dll
+M:\servercar\servercar\bin\Debug\netcoreapp3.1\servercar.pdb
+M:\servercar\servercar\obj\Debug\netcoreapp3.1\servercar.csproj.AssemblyReference.cache
+M:\servercar\servercar\obj\Debug\netcoreapp3.1\servercar.AssemblyInfoInputs.cache
+M:\servercar\servercar\obj\Debug\netcoreapp3.1\servercar.AssemblyInfo.cs
+M:\servercar\servercar\obj\Debug\netcoreapp3.1\servercar.csproj.CoreCompileInputs.cache
+M:\servercar\servercar\obj\Debug\netcoreapp3.1\servercar.dll
+M:\servercar\servercar\obj\Debug\netcoreapp3.1\servercar.pdb
+M:\servercar\servercar\obj\Debug\netcoreapp3.1\servercar.genruntimeconfig.cache
+G:\חישוב מקבילי\servercar\servercar\bin\Debug\netcoreapp3.1\servercar.exe
+G:\חישוב מקבילי\servercar\servercar\bin\Debug\netcoreapp3.1\servercar.deps.json
+G:\חישוב מקבילי\servercar\servercar\bin\Debug\netcoreapp3.1\servercar.runtimeconfig.json
+G:\חישוב מקבילי\servercar\servercar\bin\Debug\netcoreapp3.1\servercar.runtimeconfig.dev.json
+G:\חישוב מקבילי\servercar\servercar\bin\Debug\netcoreapp3.1\servercar.dll
+G:\חישוב מקבילי\servercar\servercar\bin\Debug\netcoreapp3.1\servercar.pdb
+G:\חישוב מקבילי\servercar\servercar\obj\Debug\netcoreapp3.1\servercar.csprojAssemblyReference.cache
+G:\חישוב מקבילי\servercar\servercar\obj\Debug\netcoreapp3.1\servercar.AssemblyInfoInputs.cache
+G:\חישוב מקבילי\servercar\servercar\obj\Debug\netcoreapp3.1\servercar.AssemblyInfo.cs
+G:\חישוב מקבילי\servercar\servercar\obj\Debug\netcoreapp3.1\servercar.csproj.CoreCompileInputs.cache
+G:\חישוב מקבילי\servercar\servercar\obj\Debug\netcoreapp3.1\servercar.dll
+G:\חישוב מקבילי\servercar\servercar\obj\Debug\netcoreapp3.1\servercar.pdb
+G:\חישוב מקבילי\servercar\servercar\obj\Debug\netcoreapp3.1\servercar.genruntimeconfig.cache
+G:\אונקי\חישוב מקבילי\servercar\servercar\bin\Debug\netcoreapp3.1\servercar.exe
+G:\אונקי\חישוב מקבילי\servercar\servercar\bin\Debug\netcoreapp3.1\servercar.deps.json
+G:\אונקי\חישוב מקבילי\servercar\servercar\bin\Debug\netcoreapp3.1\servercar.runtimeconfig.json
+G:\אונקי\חישוב מקבילי\servercar\servercar\bin\Debug\netcoreapp3.1\servercar.runtimeconfig.dev.json
+G:\אונקי\חישוב מקבילי\servercar\servercar\bin\Debug\netcoreapp3.1\servercar.dll
+G:\אונקי\חישוב מקבילי\servercar\servercar\bin\Debug\netcoreapp3.1\servercar.pdb
+G:\אונקי\חישוב מקבילי\servercar\servercar\obj\Debug\netcoreapp3.1\servercar.AssemblyInfoInputs.cache
+G:\אונקי\חישוב מקבילי\servercar\servercar\obj\Debug\netcoreapp3.1\servercar.AssemblyInfo.cs
+G:\אונקי\חישוב מקבילי\servercar\servercar\obj\Debug\netcoreapp3.1\servercar.csproj.CoreCompileInputs.cache
+G:\אונקי\חישוב מקבילי\servercar\servercar\obj\Debug\netcoreapp3.1\servercar.dll
+G:\אונקי\חישוב מקבילי\servercar\servercar\obj\Debug\netcoreapp3.1\servercar.pdb
+G:\אונקי\חישוב מקבילי\servercar\servercar\obj\Debug\netcoreapp3.1\servercar.genruntimeconfig.cache
+F:\אונקי\חישוב מקבילי\servercar\servercar\obj\Debug\netcoreapp3.1\servercar.csproj.AssemblyReference.cache
+F:\אונקי\חישוב מקבילי\servercar\servercar\obj\Debug\netcoreapp3.1\servercar.AssemblyInfoInputs.cache
+F:\אונקי\חישוב מקבילי\servercar\servercar\obj\Debug\netcoreapp3.1\servercar.AssemblyInfo.cs
+F:\אונקי\חישוב מקבילי\servercar\servercar\obj\Debug\netcoreapp3.1\servercar.csproj.CoreCompileInputs.cache
+F:\אונקי\חישוב מקבילי\servercar\servercar\obj\Debug\netcoreapp3.1\servercar.dll
+F:\אונקי\חישוב מקבילי\servercar\servercar\obj\Debug\netcoreapp3.1\servercar.pdb
+F:\אונקי\חישוב מקבילי\servercar\servercar\bin\Debug\netcoreapp3.1\servercar.exe
+F:\אונקי\חישוב מקבילי\servercar\servercar\bin\Debug\netcoreapp3.1\servercar.deps.json
+F:\אונקי\חישוב מקבילי\servercar\servercar\bin\Debug\netcoreapp3.1\servercar.runtimeconfig.json
+F:\אונקי\חישוב מקבילי\servercar\servercar\bin\Debug\netcoreapp3.1\servercar.runtimeconfig.dev.json
+F:\אונקי\חישוב מקבילי\servercar\servercar\bin\Debug\netcoreapp3.1\servercar.dll
+F:\אונקי\חישוב מקבילי\servercar\servercar\bin\Debug\netcoreapp3.1\servercar.pdb
+F:\אונקי\חישוב מקבילי\servercar\servercar\obj\Debug\netcoreapp3.1\servercar.genruntimeconfig.cache
+G:\אונקי\חישוב מקבילי\servercar\servercar\obj\Debug\netcoreapp3.1\servercar.csproj.AssemblyReference.cache
+C:\Users\אוירבך\Desktop\חני סופי\servercar\servercar\bin\Debug\netcoreapp3.1\servercar.exe
+C:\Users\אוירבך\Desktop\חני סופי\servercar\servercar\bin\Debug\netcoreapp3.1\servercar.deps.json
+C:\Users\אוירבך\Desktop\חני סופי\servercar\servercar\bin\Debug\netcoreapp3.1\servercar.runtimeconfig.json
+C:\Users\אוירבך\Desktop\חני סופי\servercar\servercar\bin\Debug\netcoreapp3.1\servercar.runtimeconfig.dev.json
+C:\Users\אוירבך\Desktop\חני סופי\servercar\servercar\bin\Debug\netcoreapp3.1\servercar.dll
+C:\Users\אוירבך\Desktop\חני סופי\servercar\servercar\bin\Debug\netcoreapp3.1\servercar.pdb
+C:\Users\אוירבך\Desktop\חני סופי\servercar\servercar\obj\Debug\netcoreapp3.1\servercar.csprojAssemblyReference.cache
+C:\Users\אוירבך\Desktop\חני סופי\servercar\servercar\obj\Debug\netcoreapp3.1\servercar.AssemblyInfoInputs.cache
+C:\Users\אוירבך\Desktop\חני סופי\servercar\servercar\obj\Debug\netcoreapp3.1\servercar.AssemblyInfo.cs
+C:\Users\אוירבך\Desktop\חני סופי\servercar\servercar\obj\Debug\netcoreapp3.1\servercar.csproj.CoreCompileInputs.cache
+C:\Users\אוירבך\Desktop\חני סופי\servercar\servercar\obj\Debug\netcoreapp3.1\servercar.dll
+C:\Users\אוירבך\Desktop\חני סופי\servercar\servercar\obj\Debug\netcoreapp3.1\servercar.pdb
+C:\Users\אוירבך\Desktop\חני סופי\servercar\servercar\obj\Debug\netcoreapp3.1\servercar.genruntimeconfig.cache
+F:\חני סופי\servercar\servercar\bin\Debug\netcoreapp3.1\servercar.exe
+F:\חני סופי\servercar\servercar\bin\Debug\netcoreapp3.1\servercar.deps.json
+F:\חני סופי\servercar\servercar\bin\Debug\netcoreapp3.1\servercar.runtimeconfig.json
+F:\חני סופי\servercar\servercar\bin\Debug\netcoreapp3.1\servercar.runtimeconfig.dev.json
+F:\חני סופי\servercar\servercar\bin\Debug\netcoreapp3.1\servercar.dll
+F:\חני סופי\servercar\servercar\bin\Debug\netcoreapp3.1\servercar.pdb
+F:\חני סופי\servercar\servercar\obj\Debug\netcoreapp3.1\servercar.csproj.AssemblyReference.cache
+F:\חני סופי\servercar\servercar\obj\Debug\netcoreapp3.1\servercar.AssemblyInfoInputs.cache
+F:\חני סופי\servercar\servercar\obj\Debug\netcoreapp3.1\servercar.AssemblyInfo.cs
+F:\חני סופי\servercar\servercar\obj\Debug\netcoreapp3.1\servercar.csproj.CoreCompileInputs.cache
+F:\חני סופי\servercar\servercar\obj\Debug\netcoreapp3.1\servercar.dll
+F:\חני סופי\servercar\servercar\obj\Debug\netcoreapp3.1\servercar.pdb
+F:\חני סופי\servercar\servercar\obj\Debug\netcoreapp3.1\servercar.genruntimeconfig.cache

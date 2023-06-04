@@ -1,0 +1,96 @@
+M:\carclient\carclient\obj\Debug\netcoreapp3.1\carclient.csproj.AssemblyReference.cache
+M:\carclient\carclient\obj\Debug\netcoreapp3.1\carclient.Form1.resources
+M:\carclient\carclient\obj\Debug\netcoreapp3.1\carclient.Properties.Resources.resources
+M:\carclient\carclient\obj\Debug\netcoreapp3.1\carclient.csproj.GenerateResource.cache
+M:\carclient\carclient\obj\Debug\netcoreapp3.1\carclient.AssemblyInfoInputs.cache
+M:\carclient\carclient\obj\Debug\netcoreapp3.1\carclient.AssemblyInfo.cs
+M:\carclient\carclient\obj\Debug\netcoreapp3.1\carclient.csproj.CoreCompileInputs.cache
+M:\carclient\carclient\bin\Debug\netcoreapp3.1\carclient.exe
+M:\carclient\carclient\bin\Debug\netcoreapp3.1\carclient.deps.json
+M:\carclient\carclient\bin\Debug\netcoreapp3.1\carclient.runtimeconfig.json
+M:\carclient\carclient\bin\Debug\netcoreapp3.1\carclient.runtimeconfig.dev.json
+M:\carclient\carclient\bin\Debug\netcoreapp3.1\carclient.dll
+M:\carclient\carclient\bin\Debug\netcoreapp3.1\carclient.pdb
+M:\carclient\carclient\obj\Debug\netcoreapp3.1\carclient.dll
+M:\carclient\carclient\obj\Debug\netcoreapp3.1\carclient.pdb
+M:\carclient\carclient\obj\Debug\netcoreapp3.1\carclient.genruntimeconfig.cache
+G:\חישוב מקבילי\carclient\carclient\bin\Debug\netcoreapp3.1\carclient.exe
+G:\חישוב מקבילי\carclient\carclient\bin\Debug\netcoreapp3.1\carclient.deps.json
+G:\חישוב מקבילי\carclient\carclient\bin\Debug\netcoreapp3.1\carclient.runtimeconfig.json
+G:\חישוב מקבילי\carclient\carclient\bin\Debug\netcoreapp3.1\carclient.runtimeconfig.dev.json
+G:\חישוב מקבילי\carclient\carclient\bin\Debug\netcoreapp3.1\carclient.dll
+G:\חישוב מקבילי\carclient\carclient\bin\Debug\netcoreapp3.1\carclient.pdb
+G:\חישוב מקבילי\carclient\carclient\obj\Debug\netcoreapp3.1\carclient.csprojAssemblyReference.cache
+G:\חישוב מקבילי\carclient\carclient\obj\Debug\netcoreapp3.1\carclient.Form1.resources
+G:\חישוב מקבילי\carclient\carclient\obj\Debug\netcoreapp3.1\carclient.Properties.Resources.resources
+G:\חישוב מקבילי\carclient\carclient\obj\Debug\netcoreapp3.1\carclient.csproj.GenerateResource.cache
+G:\חישוב מקבילי\carclient\carclient\obj\Debug\netcoreapp3.1\carclient.AssemblyInfoInputs.cache
+G:\חישוב מקבילי\carclient\carclient\obj\Debug\netcoreapp3.1\carclient.AssemblyInfo.cs
+G:\חישוב מקבילי\carclient\carclient\obj\Debug\netcoreapp3.1\carclient.csproj.CoreCompileInputs.cache
+G:\חישוב מקבילי\carclient\carclient\obj\Debug\netcoreapp3.1\carclient.dll
+G:\חישוב מקבילי\carclient\carclient\obj\Debug\netcoreapp3.1\carclient.pdb
+G:\חישוב מקבילי\carclient\carclient\obj\Debug\netcoreapp3.1\carclient.genruntimeconfig.cache
+G:\אונקי\חישוב מקבילי\carclient\carclient\bin\Debug\netcoreapp3.1\carclient.exe
+G:\אונקי\חישוב מקבילי\carclient\carclient\bin\Debug\netcoreapp3.1\carclient.deps.json
+G:\אונקי\חישוב מקבילי\carclient\carclient\bin\Debug\netcoreapp3.1\carclient.runtimeconfig.json
+G:\אונקי\חישוב מקבילי\carclient\carclient\bin\Debug\netcoreapp3.1\carclient.runtimeconfig.dev.json
+G:\אונקי\חישוב מקבילי\carclient\carclient\bin\Debug\netcoreapp3.1\carclient.dll
+G:\אונקי\חישוב מקבילי\carclient\carclient\bin\Debug\netcoreapp3.1\carclient.pdb
+G:\אונקי\חישוב מקבילי\carclient\carclient\obj\Debug\netcoreapp3.1\carclient.Form1.resources
+G:\אונקי\חישוב מקבילי\carclient\carclient\obj\Debug\netcoreapp3.1\carclient.Properties.Resources.resources
+G:\אונקי\חישוב מקבילי\carclient\carclient\obj\Debug\netcoreapp3.1\carclient.csproj.GenerateResource.cache
+G:\אונקי\חישוב מקבילי\carclient\carclient\obj\Debug\netcoreapp3.1\carclient.AssemblyInfoInputs.cache
+G:\אונקי\חישוב מקבילי\carclient\carclient\obj\Debug\netcoreapp3.1\carclient.AssemblyInfo.cs
+G:\אונקי\חישוב מקבילי\carclient\carclient\obj\Debug\netcoreapp3.1\carclient.csproj.CoreCompileInputs.cache
+G:\אונקי\חישוב מקבילי\carclient\carclient\obj\Debug\netcoreapp3.1\carclient.dll
+G:\אונקי\חישוב מקבילי\carclient\carclient\obj\Debug\netcoreapp3.1\carclient.pdb
+G:\אונקי\חישוב מקבילי\carclient\carclient\obj\Debug\netcoreapp3.1\carclient.genruntimeconfig.cache
+F:\אונקי\חישוב מקבילי\carclient\carclient\bin\Debug\netcoreapp3.1\carclient.exe
+F:\אונקי\חישוב מקבילי\carclient\carclient\bin\Debug\netcoreapp3.1\carclient.deps.json
+F:\אונקי\חישוב מקבילי\carclient\carclient\bin\Debug\netcoreapp3.1\carclient.runtimeconfig.json
+F:\אונקי\חישוב מקבילי\carclient\carclient\bin\Debug\netcoreapp3.1\carclient.runtimeconfig.dev.json
+F:\אונקי\חישוב מקבילי\carclient\carclient\bin\Debug\netcoreapp3.1\carclient.dll
+F:\אונקי\חישוב מקבילי\carclient\carclient\bin\Debug\netcoreapp3.1\carclient.pdb
+F:\אונקי\חישוב מקבילי\carclient\carclient\obj\Debug\netcoreapp3.1\carclient.csproj.AssemblyReference.cache
+F:\אונקי\חישוב מקבילי\carclient\carclient\obj\Debug\netcoreapp3.1\carclient.Form1.resources
+F:\אונקי\חישוב מקבילי\carclient\carclient\obj\Debug\netcoreapp3.1\carclient.Properties.Resources.resources
+F:\אונקי\חישוב מקבילי\carclient\carclient\obj\Debug\netcoreapp3.1\carclient.csproj.GenerateResource.cache
+F:\אונקי\חישוב מקבילי\carclient\carclient\obj\Debug\netcoreapp3.1\carclient.AssemblyInfoInputs.cache
+F:\אונקי\חישוב מקבילי\carclient\carclient\obj\Debug\netcoreapp3.1\carclient.AssemblyInfo.cs
+F:\אונקי\חישוב מקבילי\carclient\carclient\obj\Debug\netcoreapp3.1\carclient.csproj.CoreCompileInputs.cache
+F:\אונקי\חישוב מקבילי\carclient\carclient\obj\Debug\netcoreapp3.1\carclient.dll
+F:\אונקי\חישוב מקבילי\carclient\carclient\obj\Debug\netcoreapp3.1\carclient.pdb
+F:\אונקי\חישוב מקבילי\carclient\carclient\obj\Debug\netcoreapp3.1\carclient.genruntimeconfig.cache
+G:\אונקי\חישוב מקבילי\carclient\carclient\obj\Debug\netcoreapp3.1\carclient.csproj.AssemblyReference.cache
+C:\Users\אוירבך\Desktop\חני סופי\carclient\carclient\bin\Debug\netcoreapp3.1\carclient.exe
+C:\Users\אוירבך\Desktop\חני סופי\carclient\carclient\bin\Debug\netcoreapp3.1\carclient.deps.json
+C:\Users\אוירבך\Desktop\חני סופי\carclient\carclient\bin\Debug\netcoreapp3.1\carclient.runtimeconfig.json
+C:\Users\אוירבך\Desktop\חני סופי\carclient\carclient\bin\Debug\netcoreapp3.1\carclient.runtimeconfig.dev.json
+C:\Users\אוירבך\Desktop\חני סופי\carclient\carclient\bin\Debug\netcoreapp3.1\carclient.dll
+C:\Users\אוירבך\Desktop\חני סופי\carclient\carclient\bin\Debug\netcoreapp3.1\carclient.pdb
+C:\Users\אוירבך\Desktop\חני סופי\carclient\carclient\obj\Debug\netcoreapp3.1\carclient.csprojAssemblyReference.cache
+C:\Users\אוירבך\Desktop\חני סופי\carclient\carclient\obj\Debug\netcoreapp3.1\carclient.Form1.resources
+C:\Users\אוירבך\Desktop\חני סופי\carclient\carclient\obj\Debug\netcoreapp3.1\carclient.Properties.Resources.resources
+C:\Users\אוירבך\Desktop\חני סופי\carclient\carclient\obj\Debug\netcoreapp3.1\carclient.csproj.GenerateResource.cache
+C:\Users\אוירבך\Desktop\חני סופי\carclient\carclient\obj\Debug\netcoreapp3.1\carclient.AssemblyInfoInputs.cache
+C:\Users\אוירבך\Desktop\חני סופי\carclient\carclient\obj\Debug\netcoreapp3.1\carclient.AssemblyInfo.cs
+C:\Users\אוירבך\Desktop\חני סופי\carclient\carclient\obj\Debug\netcoreapp3.1\carclient.csproj.CoreCompileInputs.cache
+C:\Users\אוירבך\Desktop\חני סופי\carclient\carclient\obj\Debug\netcoreapp3.1\carclient.dll
+C:\Users\אוירבך\Desktop\חני סופי\carclient\carclient\obj\Debug\netcoreapp3.1\carclient.pdb
+C:\Users\אוירבך\Desktop\חני סופי\carclient\carclient\obj\Debug\netcoreapp3.1\carclient.genruntimeconfig.cache
+F:\חני סופי\carclient\carclient\bin\Debug\netcoreapp3.1\carclient.exe
+F:\חני סופי\carclient\carclient\bin\Debug\netcoreapp3.1\carclient.deps.json
+F:\חני סופי\carclient\carclient\bin\Debug\netcoreapp3.1\carclient.runtimeconfig.json
+F:\חני סופי\carclient\carclient\bin\Debug\netcoreapp3.1\carclient.runtimeconfig.dev.json
+F:\חני סופי\carclient\carclient\bin\Debug\netcoreapp3.1\carclient.dll
+F:\חני סופי\carclient\carclient\bin\Debug\netcoreapp3.1\carclient.pdb
+F:\חני סופי\carclient\carclient\obj\Debug\netcoreapp3.1\carclient.csproj.AssemblyReference.cache
+F:\חני סופי\carclient\carclient\obj\Debug\netcoreapp3.1\carclient.Form1.resources
+F:\חני סופי\carclient\carclient\obj\Debug\netcoreapp3.1\carclient.Properties.Resources.resources
+F:\חני סופי\carclient\carclient\obj\Debug\netcoreapp3.1\carclient.csproj.GenerateResource.cache
+F:\חני סופי\carclient\carclient\obj\Debug\netcoreapp3.1\carclient.AssemblyInfoInputs.cache
+F:\חני סופי\carclient\carclient\obj\Debug\netcoreapp3.1\carclient.AssemblyInfo.cs
+F:\חני סופי\carclient\carclient\obj\Debug\netcoreapp3.1\carclient.csproj.CoreCompileInputs.cache
+F:\חני סופי\carclient\carclient\obj\Debug\netcoreapp3.1\carclient.dll
+F:\חני סופי\carclient\carclient\obj\Debug\netcoreapp3.1\carclient.pdb
+F:\חני סופי\carclient\carclient\obj\Debug\netcoreapp3.1\carclient.genruntimeconfig.cache

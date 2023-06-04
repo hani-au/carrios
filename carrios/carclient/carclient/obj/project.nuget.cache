@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "c2QCf6T2HG1mrcijzi3vYnlBdj+5+3Xvtx9krB1Dz/lqM6JUDh0xVer1ubaAXnyEDHP5SolTjlDNOwJX2nonfg==",
+  "success": true,
+  "projectFilePath": "F:\\חני סופי\\carclient\\carclient\\carclient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\31440944\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
